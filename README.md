@@ -193,7 +193,7 @@ I’m a hands-on builder passionate about cloud security, automation, and meanin
 
 I’m open to:
 
-- 🚀 Entry-level full-time roles (DevSecOps, Cloud Engineer, Backend)  
+- 🚀 Entry-level full-time roles
 - 🛠️ Internships, collaborative builds, or open-source work  
 - 🤝 Cloud security conversations, mentorship, or guidance
 
