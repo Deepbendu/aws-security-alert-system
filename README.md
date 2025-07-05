@@ -1,6 +1,6 @@
 # 🛡️ AI-Powered Security Alert System on AWS
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF6B00?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/fake-cert-link)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF6B00?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)
 [![Cloud: AWS](https://img.shields.io/badge/Cloud-AWS-1D3557?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Architecture: Serverless](https://img.shields.io/badge/Architecture-Serverless-6C5CE7)](#)
 [![Built With](https://img.shields.io/badge/Built%20With-AWS%20Native%20Services-4682B4?logo=amazon-aws&logoColor=white)](#)
@@ -183,7 +183,7 @@ Made with ❤️ in India 🇮🇳
 
 I’m a hands-on builder passionate about cloud security, automation, and meaningful tech. This project reflects my journey into **DevSecOps using AWS-native services** — combining **real-time monitoring**, **event-driven automation**, and **security-first thinking**.
 
-🛡️ I also hold the **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/fake-cert-link)** credential, which deepened my understanding of building secure, scalable, and cost-optimized cloud solutions.
+🛡️ I also hold the **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)** credential, which deepened my understanding of building secure, scalable, and cost-optimized cloud solutions.
 
 > I didn’t just build this project — I built real-world cloud confidence.
 
@@ -205,4 +205,4 @@ I’m open to:
 ## 📜 AWS Certification Verification
 
 You can verify my AWS Certified Solutions Architect – Associate credential here:  
-🔗 [https://www.credly.com/badges/fake-cert-link](https://www.credly.com/badges/fake-cert-link)
+🔗 [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)
