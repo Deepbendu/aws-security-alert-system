@@ -205,4 +205,4 @@ I’m open to:
 ## 📜 AWS Certification Verification
 
 You can verify my AWS Certified Solutions Architect – Associate credential here:  
-🔗 [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)
+🔗 [Verify AWS Certification](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)
