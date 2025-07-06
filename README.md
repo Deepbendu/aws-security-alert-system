@@ -183,7 +183,7 @@ Made with ❤️ in India 🇮🇳
 
 I’m a hands-on builder passionate about cloud security, automation, and meaningful tech. This project reflects my journey into **DevSecOps using AWS-native services** — combining **real-time monitoring**, **event-driven automation**, and **security-first thinking**.
 
-🛡️ I also hold the **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)** credential, which deepened my understanding of building secure, scalable, and cost-optimized cloud solutions.
+🛡️ I also hold the **[AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/40d503c796ac43eb9f5d3912b5adad30)** credential, which deepened my understanding of building secure, scalable, and cost-optimized cloud solutions.
 
 > I didn’t just build this project — I built real-world cloud confidence.
 
@@ -205,4 +205,4 @@ I’m open to:
 ## 📜 AWS Certification Verification
 
 You can verify my AWS Certified Solutions Architect – Associate credential here:  
-🔗 [Verify AWS Certification](https://www.credly.com/badges/e8e56a26-b626-4c1c-b628-a09a277be295/public_url)
+🔗 [Verify AWS Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/40d503c796ac43eb9f5d3912b5adad30)
