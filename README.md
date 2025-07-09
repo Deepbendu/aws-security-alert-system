@@ -83,6 +83,27 @@ Want to see it in action? Check out:
 
 ---
 
+## 🗂️ Project Structure
+
+```bash
+/aws-security-alert-system
+├── README.md                      # Full project walkthrough
+├── lambda/
+│   └── alert_handler.py           # SNS email logic on threat detection
+├── eventbridge/
+│   └── guardduty-event-pattern.json  # JSON rule for triggering alerts
+├── screenshots/
+│   ├── event-bridge-rule.png
+│   ├── gaurdduty-findings.png
+│   ├── gaurdduty-summary.png
+│   ├── lambda-log.png
+│   └── sns-email-alert.png
+```
+
+
+
+---
+
 ## 💡 What I Learned
 
 This project taught me way more than just connecting AWS services:
