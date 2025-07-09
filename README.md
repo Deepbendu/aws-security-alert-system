@@ -71,28 +71,41 @@ And all of this happens **automatically** — no manual intervention, no ML mode
 - Cleaned up all resources to avoid any billing surprises
 
 
-  ---
+---
 
 ## 📸 Screenshots
 
-### 🛡️ GuardDuty Detection Log  
-A real-time detection of a simulated brute-force attack:  
-![GuardDuty Detection Log](screenshots/guardduty-findings.png)
-
-### 📊 GuardDuty Summary Dashboard  
-See all active findings categorized by severity:  
-![GuardDuty Summary Dashboard](screenshots/guardduty-summary.png)
-
 ### ⚙️ EventBridge Rule Configuration  
 This rule watches for specific GuardDuty events and triggers Lambda:  
+
 ![EventBridge Rule Configuration](screenshots/eventbridge-rule.png)
+
+
 
 ### 🔍 Lambda Execution Log  
 The function runs on threat detection and pushes alerts via SNS:  
+
 ![Lambda Execution Log](screenshots/lambda-log.png)
 
+
+
+### 🛡️ GuardDuty Detection Log  
+A real-time detection of a simulated brute-force attack:  
+
+![GuardDuty Detection Log](screenshots/guardduty-findings.png)
+
+
+
+### 📊 GuardDuty Summary Dashboard  
+See all active findings categorized by severity:  
+
+![GuardDuty Summary Dashboard](screenshots/guardduty-summary.png)
+
+
+
 ### 📬 SNS Email Alert  
-Sample email received from SNS upon threat detection:  
+Sample email received from SNS upon threat detection: 
+
 ![SNS Email Alert](screenshots/sns-email-alert.png)
 
 
