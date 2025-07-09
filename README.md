@@ -70,35 +70,49 @@ And all of this happens **automatically** — no manual intervention, no ML mode
 - Got an alert email in real time — it worked just like planned  
 - Cleaned up all resources to avoid any billing surprises
 
----
 
-## 📸 Inside the Screenshots Folder
+  ---
 
-Want to see it in action? Check out:
+## 📸 Screenshots
 
-- ✅ GuardDuty detection log  
-- ✅ SNS email alert format  
-- ✅ EventBridge rule trigger  
-- ✅ Lambda execution log  
+### 🛡️ GuardDuty Detection Log  
+A real-time detection of a simulated brute-force attack:  
+![GuardDuty Detection Log](screenshots/guardduty-findings.png)
 
----
+### 📊 GuardDuty Summary Dashboard  
+See all active findings categorized by severity:  
+![GuardDuty Summary Dashboard](screenshots/guardduty-summary.png)
+
+### ⚙️ EventBridge Rule Configuration  
+This rule watches for specific GuardDuty events and triggers Lambda:  
+![EventBridge Rule Configuration](screenshots/eventbridge-rule.png)
+
+### 🔍 Lambda Execution Log  
+The function runs on threat detection and pushes alerts via SNS:  
+![Lambda Execution Log](screenshots/lambda-log.png)
+
+### 📬 SNS Email Alert  
+Sample email received from SNS upon threat detection:  
+![SNS Email Alert](screenshots/sns-email-alert.png)
+
 
 ## 🗂️ Project Structure
 
 ```bash
 /aws-security-alert-system
-├── README.md                      # Full project walkthrough
+├── README.md                         # Full project walkthrough
 ├── lambda/
-│   └── alert_handler.py           # SNS email logic on threat detection
+│   └── alert_handler.py              # SNS email logic on threat detection
 ├── eventbridge/
-│   └── guardduty-event-pattern.json  # JSON rule for triggering alerts
-├── screenshots/
-│   ├── event-bridge-rule.png
-│   ├── gaurdduty-findings.png
-│   ├── gaurdduty-summary.png
-│   ├── lambda-log.png
-│   └── sns-email-alert.png
+│   └── guardduty-event-pattern.json  # EventBridge rule for triggering Lambda
+└── screenshots/
+    ├── eventbridge-rule.png
+    ├── guardduty-findings.png
+    ├── guardduty-summary.png
+    ├── lambda-log.png
+    └── sns-email-alert.png
 ```
+
 
 
 
